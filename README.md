@@ -1,1 +1,1 @@
-This is going to be my first project with The Odin Project.
+This is going to be my first project with The Odin Project. I am going to do my best.
